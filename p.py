@@ -2,6 +2,7 @@
 # https://rapidapi.com/segnayt-e1RorVbq3qe/api/dimondevosint/
 
 import logging
+import aiogram
 from aiogram import Bot, Dispatcher, executor, types
 import requests
 import json
